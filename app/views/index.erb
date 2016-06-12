@@ -1,0 +1,18 @@
+
+<div class = "container">
+
+<h1>Pocket Gophers</h1>
+
+<article id = "all-students">
+  <% @students.each do |student| %>
+  <div class = 'student-info'>
+  <a href ="/student/<%=student.id%>"><%=student.first_name %>
+  <%=student.last_name %></a> <br>
+  <%=student.email %> <br> <br>
+  </div>
+  <% end %>
+</article>
+
+<a id ="new-student" href ="students/new"> Add a Student </a>
+
+</div>
