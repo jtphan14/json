@@ -1,3 +1,6 @@
+## Description
+This repo was created for a lightning presentation on JSON at Dev Bootcamp San Diego. 
+
 ##JSON: Javascript Object Notation
 
 * Used to transfer data
@@ -7,10 +10,9 @@
 
 ##Examples of JSON
 
-#Instagram
+*Instagram
 https://www.instagram.com/developer/deprecated/realtime/
 
-#Facebook
+*Facebook
 https://developers.facebook.com/docs/unity/reference/current/Json
 
-##Content Type and Data Type
