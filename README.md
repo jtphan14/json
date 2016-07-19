@@ -10,9 +10,9 @@ This repo was created for a lightning presentation on JSON at Dev Bootcamp San D
 
 ##Examples of JSON
 
-*Instagram
+* Instagram
 https://www.instagram.com/developer/deprecated/realtime/
 
-*Facebook
+* Facebook
 https://developers.facebook.com/docs/unity/reference/current/Json
 
